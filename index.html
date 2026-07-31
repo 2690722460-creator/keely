@@ -5,15 +5,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>阮靖怡 · 视觉设计作品集</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&family=Noto+Serif+SC:wght@400;600;700;900&display=swap" rel="stylesheet">
-  <!-- Preload key video assets for instant playback -->
-  <link rel="preload" href="assets/gufeng-video.mp4" as="video" type="video/mp4">
-  <link rel="preload" href="assets/meizhiyuan-video.mp4" as="video" type="video/mp4">
-  <link rel="preload" href="assets/aigc-qihao-video.mp4" as="video" type="video/mp4">
-  <link rel="preload" href="assets/POPMART-video.mp4" as="video" type="video/mp4">
-  <link rel="preload" href="assets/aigc-product-ad.mp4" as="video" type="video/mp4">
+  <link rel="preconnect" href="https://fonts.googleapis.cn" crossorigin>
+  <link href="https://fonts.googleapis.cn/css2?family=Noto+Sans+SC:wght@300;400;500;700&family=Noto+Serif+SC:wght@400;600;700;900&display=swap" rel="stylesheet">
   <style>
     :root {
       --button-outline: rgba(0,0,0,.08);
@@ -1094,7 +1087,7 @@
       <div class="workflow-two-col">
         <div class="wf-col wf-col-left">
           <div class="wf-col-title">工作流图</div>
-          <img src="assets/aigc-workflow.svg" alt="AIGC 工作流：需求拆解 → 提示词工程 → AI 生成 → 精修优化 → 落地交付" class="workflow-svg">
+          <img src="assets/aigc-workflow.svg" alt="AIGC 工作流：需求拆解 → 提示词工程 → AI 生成 → 精修优化 → 落地交付" class="workflow-svg" decoding="async" loading="lazy">
         </div>
         <div class="wf-col wf-col-right">
           <div class="wf-col-title">AI 生成过程</div>
@@ -1109,7 +1102,7 @@
             <span class="wf-arrow">→</span>
             <span class="wf-step">落地交付</span>
           </div>
-          <img src="assets/ai-process.jpg" alt="AI 生成过程" class="workflow-process-img">
+          <img src="assets/ai-process.jpg" alt="AI 生成过程" class="workflow-process-img" decoding="async" loading="lazy">
         </div>
       </div>
     </div>
@@ -1281,7 +1274,7 @@
           <div class="modal-img-bg" id="modalImgBg"></div>
           <img id="modalImg" src="" alt="" decoding="async">
           <div class="video-spinner" id="videoSpinner"><div></div></div>
-          <video id="modalVideo" src="" controls preload="auto" playsinline style="display:none;"></video>
+          <video id="modalVideo" src="" controls preload="none" playsinline style="display:none;"></video>
         </div>
         <div id="modalThumbs" class="modal-thumbs"></div>
       </div>
@@ -1548,7 +1541,7 @@
           '<div class="song-corner tr"></div>' +
           '<div class="song-corner bl"></div>' +
           '<div class="song-corner br"></div>' +
-          '<div class="work-img-wrap"><img src="' + w.img + '" alt="' + w.title + '" decoding="async"></div>' +
+          '<div class="work-img-wrap"><img src="' + w.img + '" alt="' + w.title + '" decoding="async" loading="lazy"></div>' +
           '<div class="work-info">' +
             '<span class="work-cat">' + w.catLabel + '</span>' +
             '<h3 class="work-title">' + w.title + '</h3>' +
