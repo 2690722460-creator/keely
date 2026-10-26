@@ -1,0 +1,36 @@
+{
+  "workId": "daac61c5-3b11-5335-9f4e-aef7bbf8c1a0",
+  "title": "意大利面品牌IP设计",
+  "category": "brand_ip",
+  "cover": "assets/pasta-brand/image-01.png",
+  "gallery": [
+    "assets/pasta-brand/image-01.png",
+    "assets/pasta-brand/image-02.png"
+  ],
+  "files": [
+    {
+      "order": 1,
+      "source": "C:/Users/kieeeeei/Desktop/那不勒斯火山勇士意面广告.png",
+      "sourceName": "那不勒斯火山勇士意面广告.png",
+      "bytes": 2410599,
+      "sha256": "8f71631aada0033d7616f0452345a0847161c9f798eebaa5c71deb520848a02e",
+      "width": 1122,
+      "height": 1402,
+      "src": "assets/pasta-brand/image-01.png",
+      "decodeExit": 0,
+      "sourceUnchanged": true
+    },
+    {
+      "order": 2,
+      "source": "C:/Users/kieeeeei/Desktop/安东尼路易吉意式意面静物陈列.png",
+      "sourceName": "安东尼路易吉意式意面静物陈列.png",
+      "bytes": 2243210,
+      "sha256": "0229a0de40c8af391731fe9f5532e556c56acb39b6c4927ce30d061eb87b2550",
+      "width": 1536,
+      "height": 1024,
+      "src": "assets/pasta-brand/image-02.png",
+      "decodeExit": 0,
+      "sourceUnchanged": true
+    }
+  ]
+}

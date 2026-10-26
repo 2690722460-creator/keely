@@ -1,0 +1,111 @@
+{
+  "workId": "c7be2d56-8151-518d-976e-cd52e23f8c5e",
+  "title": "咖啡店APP设计",
+  "category": "personal",
+  "catLabel": "UI设计",
+  "cover": "assets/coffee-app/detail-05.jpg",
+  "galleryOrder": [
+    2,
+    5,
+    4,
+    1,
+    6,
+    3,
+    7
+  ],
+  "gallery": [
+    "assets/coffee-app/detail-02.jpg",
+    "assets/coffee-app/detail-05.jpg",
+    "assets/coffee-app/detail-04.jpg",
+    "assets/coffee-app/detail-01.jpg",
+    "assets/coffee-app/detail-06.jpg",
+    "assets/coffee-app/detail-03.jpg",
+    "assets/coffee-app/detail-07.jpg"
+  ],
+  "files": [
+    {
+      "order": 1,
+      "source": "C:/Users/kieeeeei/Downloads/VIP会员卡.jpg",
+      "sourceName": "VIP会员卡.jpg",
+      "bytes": 50155,
+      "sha256": "8c1433a9785fc268ee5a41552b04aefb23c9d921b825d5b26b31f6603ab3a676",
+      "width": 375,
+      "height": 900,
+      "src": "assets/coffee-app/detail-01.jpg",
+      "decodeExit": 0,
+      "sourceUnchanged": true
+    },
+    {
+      "order": 2,
+      "source": "C:/Users/kieeeeei/Downloads/Welcome 欢迎页.jpg",
+      "sourceName": "Welcome 欢迎页.jpg",
+      "bytes": 37960,
+      "sha256": "36a080790baebd01c5f7468a25b3f0a4f6661fb8132a65258106521371ce4ad0",
+      "width": 375,
+      "height": 900,
+      "src": "assets/coffee-app/detail-02.jpg",
+      "decodeExit": 0,
+      "sourceUnchanged": true
+    },
+    {
+      "order": 3,
+      "source": "C:/Users/kieeeeei/Downloads/自取提示（漫画版）.jpg",
+      "sourceName": "自取提示（漫画版）.jpg",
+      "bytes": 71459,
+      "sha256": "d8dc9697715f4f2ca786a1ddeff611f20cf2197ae280dab19aff97fa9fa7cd6d",
+      "width": 375,
+      "height": 900,
+      "src": "assets/coffee-app/detail-03.jpg",
+      "decodeExit": 0,
+      "sourceUnchanged": true
+    },
+    {
+      "order": 4,
+      "source": "C:/Users/kieeeeei/Downloads/Keely On Coffee (STI).jpg",
+      "sourceName": "Keely On Coffee (STI).jpg",
+      "bytes": 61767,
+      "sha256": "bbe284b55ef38d395e1ed84db013018f79aeabcee5f4369a7711be987e7a32e8",
+      "width": 375,
+      "height": 900,
+      "src": "assets/coffee-app/detail-04.jpg",
+      "decodeExit": 0,
+      "sourceUnchanged": true
+    },
+    {
+      "order": 5,
+      "source": "C:/Users/kieeeeei/Downloads/Keely On Coffee 咖啡机版.jpg",
+      "sourceName": "Keely On Coffee 咖啡机版.jpg",
+      "bytes": 59127,
+      "sha256": "3ae1a3c8397440f0b9da80bc76e2176e27c5681da505e61dd85be17d742dec12",
+      "width": 375,
+      "height": 900,
+      "src": "assets/coffee-app/detail-05.jpg",
+      "decodeExit": 0,
+      "sourceUnchanged": true
+    },
+    {
+      "order": 6,
+      "source": "C:/Users/kieeeeei/Downloads/商品详情.jpg",
+      "sourceName": "商品详情.jpg",
+      "bytes": 53961,
+      "sha256": "6953b9879c0704b72178626cfa272dda9b799cf0ca5ec2005f3ce1cc973acd14",
+      "width": 375,
+      "height": 1105,
+      "src": "assets/coffee-app/detail-06.jpg",
+      "decodeExit": 0,
+      "sourceUnchanged": true
+    },
+    {
+      "order": 7,
+      "source": "C:/Users/kieeeeei/Downloads/个人中心.jpg",
+      "sourceName": "个人中心.jpg",
+      "bytes": 41020,
+      "sha256": "f4abec5c6a455e801e21fa841fa412fde98712137bbe5cf84d5e68f96cef7769",
+      "width": 375,
+      "height": 900,
+      "src": "assets/coffee-app/detail-07.jpg",
+      "decodeExit": 0,
+      "sourceUnchanged": true
+    }
+  ]
+}

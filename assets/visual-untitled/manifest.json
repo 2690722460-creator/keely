@@ -1,0 +1,42 @@
+{
+  "category": "ad_visual",
+  "visibleNames": false,
+  "works": [
+    {
+      "id": "b4abe196-8146-4681-8128-4a8a11c2205d",
+      "cover": "assets/visual-untitled/image-01.jpg",
+      "gallery": [
+        "assets/visual-untitled/image-01.jpg"
+      ]
+    },
+    {
+      "id": "edf474b8-fe23-4d7e-bc58-82a8bb1c6e5f",
+      "cover": "assets/visual-untitled/image-02.jpg",
+      "gallery": [
+        "assets/visual-untitled/image-02.jpg"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "order": 1,
+      "source": "C:/Users/kieeeeei/Desktop/微信图片_〉〇〉」-〈〇-〉」_〈〉〈『〇〉_『〈》.jpg",
+      "sha256": "eeccfae4be9c09ef2efd50f6e059909ec9e9ccbe29792fbe695c308e9fb01fba",
+      "bytes": 185751,
+      "width": 1080,
+      "height": 1527,
+      "src": "assets/visual-untitled/image-01.jpg",
+      "decodeExit": 0
+    },
+    {
+      "order": 2,
+      "source": "C:/Users/kieeeeei/Desktop/f6affa584782ff04a60fd30f4acc1e92.jpg",
+      "sha256": "15bfee2c68ad6a37284c69fa34477294f950d5a79cdaef79bd9f3a58a76d69c8",
+      "bytes": 37967,
+      "width": 750,
+      "height": 530,
+      "src": "assets/visual-untitled/image-02.jpg",
+      "decodeExit": 0
+    }
+  ]
+}

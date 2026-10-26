@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "projectId": "8d4d1366-613a-5649-96fb-550f508bce72",
+  "title": "黑白兔IP设计",
+  "category": "brand_ip",
+  "displaySourceNames": false,
+  "cover": "assets/black-white-rabbit/image-03.png",
+  "galleryOrder": [
+    3,
+    2,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    1
+  ],
+  "files": [
+    {
+      "order": 1,
+      "src": "assets/black-white-rabbit/image-01.png",
+      "sourceName": "2023-06.png",
+      "bytes": 151637,
+      "sha256": "c85ff3995511860b5b7c39d6f8da46c9363628e8b769580c8171b26627f21b52",
+      "width": 4962,
+      "height": 3508,
+      "decodeExit": 0
+    },
+    {
+      "order": 2,
+      "src": "assets/black-white-rabbit/image-02.png",
+      "sourceName": "2023_画板 1.png",
+      "bytes": 208863,
+      "sha256": "8159109f25608b9c3d987739d0d3d62eae096d50a1d8009bb27a6978801aba8a",
+      "width": 3509,
+      "height": 4962,
+      "decodeExit": 0
+    },
+    {
+      "order": 3,
+      "src": "assets/black-white-rabbit/image-03.png",
+      "sourceName": "2023-02.png",
+      "bytes": 409685,
+      "sha256": "9de03d563394776d73b3a016c5ab9845d4ce5e248f8e4709877f3581ac1ec7dd",
+      "width": 4962,
+      "height": 3508,
+      "decodeExit": 0
+    },
+    {
+      "order": 4,
+      "src": "assets/black-white-rabbit/image-04.png",
+      "sourceName": "2023-03.png",
+      "bytes": 257288,
+      "sha256": "520aa011f9d1b0abeb38fff402820b883a28aa4d7145598d345e98139d617fa6",
+      "width": 4962,
+      "height": 3508,
+      "decodeExit": 0
+    },
+    {
+      "order": 5,
+      "src": "assets/black-white-rabbit/image-05.png",
+      "sourceName": "2023-04.png",
+      "bytes": 174325,
+      "sha256": "a5e2230936db30fa1643a078160bc2e876b791d32137766eabf0223ad824e47a",
+      "width": 4962,
+      "height": 3508,
+      "decodeExit": 0
+    },
+    {
+      "order": 6,
+      "src": "assets/black-white-rabbit/image-06.png",
+      "sourceName": "2023-05.png",
+      "bytes": 350194,
+      "sha256": "e67309b8734cc929d15a1cfc11843dcb60e7db751a69893db3bcc3151154d0d6",
+      "width": 4962,
+      "height": 3508,
+      "decodeExit": 0
+    },
+    {
+      "order": 7,
+      "src": "assets/black-white-rabbit/image-07.png",
+      "sourceName": "ChatGPT Image 2026年10月23日 15_08_46-4.png",
+      "bytes": 1828823,
+      "sha256": "fe3d5014fd525580ff4383348657d1257671dbb8bc25cfc303bef2106edbfaa8",
+      "width": 1122,
+      "height": 1402,
+      "decodeExit": 0
+    },
+    {
+      "order": 8,
+      "src": "assets/black-white-rabbit/image-08.png",
+      "sourceName": "ChatGPT Image 2026年10月23日 15_02_22-1.png",
+      "bytes": 1668586,
+      "sha256": "cb3519584708d9f5813d82554bd9730cc4c656d4e96dcb565bd812e4390ec7e7",
+      "width": 1122,
+      "height": 1402,
+      "decodeExit": 0
+    },
+    {
+      "order": 9,
+      "src": "assets/black-white-rabbit/image-09.png",
+      "sourceName": "ChatGPT Image 2026年10月23日 15_02_26-2.png",
+      "bytes": 1909901,
+      "sha256": "15104c5ab5e1104bf65f2ed557d910a42db609f04431e16e9ed887d0d6edcb84",
+      "width": 1254,
+      "height": 1254,
+      "decodeExit": 0
+    },
+    {
+      "order": 10,
+      "src": "assets/black-white-rabbit/image-10.png",
+      "sourceName": "ChatGPT Image 2026年10月23日 15_08_43-3.png",
+      "bytes": 2318214,
+      "sha256": "ca0d565e669ec511f9fe47cada1d999636ac8dc836142b7ef51d8214782499bd",
+      "width": 1122,
+      "height": 1402,
+      "decodeExit": 0
+    }
+  ]
+}

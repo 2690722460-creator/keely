@@ -1,0 +1,1385 @@
+[
+  {
+    "id": "c0237b70-11d0-5c26-a391-e163145a05d3",
+    "title": "茅龙笔酱非遗IP全案设计",
+    "category": "brand_ip",
+    "description": "为茅龙笔酱品牌打造的非遗文化IP全案设计。从品牌故事挖掘出发，提炼茅龙笔制作技艺中的核心视觉符号，构建了涵盖标志、辅助图形、IP角色及延展应用的完整视觉体系。方案以传统笔墨韵味为基调，融入现代扁平化设计语言，使非遗文化以更具当代感的方式触达年轻消费群体。",
+    "cover": "assets/baisha-04.jpg",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/baisha-04.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/baisha-01.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/baisha-02.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/baisha-03.jpg"
+      },
+      {
+        "type": "video",
+        "src": "assets/maolong-video1.mp4",
+        "poster": "assets/baisha-01.jpg"
+      },
+      {
+        "type": "video",
+        "src": "assets/maolong-video2.mp4",
+        "poster": "assets/baisha-02.jpg"
+      },
+      {
+        "type": "video",
+        "src": "assets/maolong-video3.mp4",
+        "poster": "assets/baisha-03.jpg"
+      },
+      {
+        "type": "video",
+        "src": "assets/maolong-video4.mp4",
+        "poster": "assets/baisha-04.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 10,
+    "version": 1
+  },
+  {
+    "id": "23538ed6-5604-56b6-aee5-e4d5026aa57c",
+    "title": "江门东艺宫灯游园活动",
+    "category": "brand_ip",
+    "description": "让非遗走进生活，通过沉浸式游园体验，激发公众对传统宫灯文化的兴趣与认同，助力非遗活态传承。扫码看活动H5。",
+    "cover": "assets/gongdeng-1.jpg",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/gongdeng-1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/gongdeng-2.jpg"
+      },
+      {
+        "type": "video",
+        "src": "assets/gongdeng-video.mp4",
+        "poster": "assets/gongdeng-1.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 20,
+    "version": 1
+  },
+  {
+    "id": "bad806c0-3a85-5281-ad04-992f6dc324e2",
+    "title": "产品广告动态短片",
+    "category": "aigc_video",
+    "description": "为产品做的广告动态短片。从脚本到画面到动效，围绕产品卖点组织镜头节奏，突出使用场景和核心卖点。",
+    "cover": "assets/product-ad-01.jpg",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/product-ad-01.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/product-ad-02.jpg"
+      },
+      {
+        "type": "video",
+        "src": "assets/aigc-product-ad.mp4",
+        "poster": "assets/product-ad-01.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 30,
+    "version": 1
+  },
+  {
+    "id": "bfc46d47-2d8f-5162-a161-2be3d091efba",
+    "title": "古风短剧产品广告",
+    "category": "aigc_video",
+    "description": "用古风短剧的形式拍产品广告，把产品放进古代生活场景里，用故事带品牌，让产品卖点自然落在剧情里。",
+    "cover": "assets/gufeng-01.jpg",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/gufeng-01.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/gufeng-02.jpg"
+      },
+      {
+        "type": "video",
+        "src": "assets/gufeng-video.mp4",
+        "poster": "assets/gufeng-01.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 40,
+    "version": 1
+  },
+  {
+    "id": "fc309dc3-78a1-5c01-a453-4f00f7a684d4",
+    "title": "POP MART 大广赛参赛作品",
+    "category": "aigc_video",
+    "description": "大广赛参赛作品，给 POP MART 做的品牌短片。围绕潮玩文化搭了一组奇幻场景，贴合年轻潮流的调性。",
+    "cover": "assets/POPMART-01.jpg",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/POPMART-01.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/POPMART-02.jpg"
+      },
+      {
+        "type": "video",
+        "src": "assets/POPMART-video.mp4",
+        "poster": "assets/POPMART-01.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 50,
+    "version": 1
+  },
+  {
+    "id": "52ce4458-b3af-5414-a033-d53090f33e82",
+    "title": "美汁源产品广告",
+    "category": "aigc_video",
+    "description": "给美汁源做的广告短片，画面走清新自然路线，突出果汁的新鲜和阳光感，对应品牌\"阳光、自然、健康\"的调性。",
+    "cover": "assets/meizhiyuan-01.jpg",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/meizhiyuan-01.jpg"
+      },
+      {
+        "type": "video",
+        "src": "assets/meizhiyuan-video.mp4",
+        "poster": "assets/meizhiyuan-01.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 60,
+    "version": 1
+  },
+  {
+    "id": "7694faea-a328-588b-a162-0bc099903c50",
+    "title": "短视频起号案例",
+    "category": "aigc_video",
+    "description": "从账号定位到成片的短视频起号练习，围绕一个主题持续出内容，测试不同选题和画面风格的数据反馈。",
+    "cover": "assets/aigc-qihao-01.jpg",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/aigc-qihao-01.jpg"
+      },
+      {
+        "type": "video",
+        "src": "assets/aigc-qihao-video.mp4",
+        "poster": "assets/aigc-qihao-01.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 70,
+    "version": 1
+  },
+  {
+    "id": "b028bec5-a7ce-56e0-aa1f-4498099be400",
+    "title": "白蛇传宋代美学舞台",
+    "category": "stage_design",
+    "description": "以白蛇传为题材的舞台空间设计方案。以宋代美学为视觉基调，运用纱幕、投影与实景装置的层次叠加，构建虚实相生的舞台空间。色彩体系取自宋瓷釉色与绢本设色，整体氛围雅致含蓄，以空间叙事呼应戏剧情感。",
+    "cover": "assets/baishe-01.jpg",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/baishe-01.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/baishe-02.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/baishe-03.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/baishe-04.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/baishe-05.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 80,
+    "version": 1
+  },
+  {
+    "id": "aa0b89f2-e343-5604-ab6a-845629dcdef4",
+    "title": "端午主题传统节日舞台",
+    "category": "stage_design",
+    "description": "为端午节主题晚会设计的舞台空间方案。以龙舟、粽叶、艾草等端午元素为视觉符号，通过现代舞台技术进行抽象化转译。主舞台以弧形LED屏模拟水面波光，吊装装置以粽叶形态悬浮于空中，营造沉浸式的节日氛围。",
+    "cover": "assets/zhubian-01.jpg",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/zhubian-01.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/zhubian-02.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/zhubian-03.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 90,
+    "version": 1
+  },
+  {
+    "id": "429ad489-2977-5191-a85f-81155f1b6446",
+    "title": "空间画展",
+    "category": "stage_design",
+    "description": "当代艺术空间策展设计方案。以留白与光影为核心语言，构建流动性观展动线。墙面采用可调节色温的隐藏式灯带，地面以深灰色自流平呼应作品张力。空间中央设置悬浮展台，配合智能感应照明系统，实现人走灯随、移步换景的交互式观展体验。",
+    "cover": "assets/kongjian-huazhan.jpg",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/kongjian-huazhan.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 100,
+    "version": 1
+  },
+  {
+    "id": "26b1ec75-a15c-51f8-abe8-076016e163de",
+    "title": "户外舞台",
+    "category": "stage_design",
+    "description": "户外音乐节主舞台设计方案。以天地为幕、自然为景，将舞台结构融入场地地貌。主舞台采用模块化桁架系统，可适应不同地形高差。灯光矩阵与星空呼应，音响布局经过声学模拟优化，确保开放环境下的声场均匀覆盖。后场设置艺术家休息区与设备仓储一体化空间。",
+    "cover": "assets/huwai-wutai-done.jpg",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/huwai-wutai-wireframe.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/huwai-wutai-done.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 110,
+    "version": 1
+  },
+  {
+    "id": "f3bf7b64-945f-5dbb-a931-5e18219aac84",
+    "title": "爱丽丝舞台剧",
+    "category": "stage_design",
+    "description": "奇幻题材儿童舞台剧《爱丽丝梦游仙境》的空间设计方案。以\"变大变小\"为核心视觉概念，运用透视错视与比例夸张手法构建奇幻场景。兔子洞入口采用螺旋式下降通道设计，茶话会场景以 oversized 道具营造荒诞感。全剧通过投影 mapping 与机械装置联动，实现场景的快速奇幻转换。",
+    "cover": "assets/ailisi-01.jpg",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/ailisi-01.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/ailisi-02.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/ailisi-03.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/ailisi-04.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 120,
+    "version": 1
+  },
+  {
+    "id": "99eb5139-652e-5a33-a6b2-2e0e891213a8",
+    "title": "豪士吐司海报创作设计（大广赛省二已被官方认可）",
+    "category": "ad_visual",
+    "description": "为豪士吐司品牌创作的海报视觉设计方案。以产品新鲜出炉的温暖质感为视觉切入点，运用暖色调光影与细腻的食物纹理表现，传递手工烘焙的温度与匠心。构图上采用大胆的留白与产品特写结合，强化品牌记忆点，适用于线上线下多渠道传播。",
+    "cover": "assets/haoshi-01.jpg",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/haoshi-01.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/haoshi-02.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/haoshi-03.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/haoshi-04.jpg"
+      },
+      {
+        "type": "video",
+        "src": "assets/haoshi-video1.mp4",
+        "poster": "assets/haoshi-01.jpg"
+      },
+      {
+        "type": "video",
+        "src": "assets/haoshi-video2.mp4",
+        "poster": "assets/haoshi-02.jpg"
+      },
+      {
+        "type": "video",
+        "src": "assets/haoshi-video3.mp4",
+        "poster": "assets/haoshi-03.jpg"
+      },
+      {
+        "type": "video",
+        "src": "assets/haoshi-video4.mp4",
+        "poster": "assets/haoshi-04.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 130,
+    "version": 1
+  },
+  {
+    "id": "4f1c5429-aa35-5617-a7aa-8b54c69e22b4",
+    "title": "三福海报设计广告",
+    "category": "ad_visual",
+    "description": "为三福品牌创作的海报广告设计。以年轻潮流为视觉基调，运用高饱和度色彩搭配与几何图形构成，传递品牌活力与时尚感。三幅海报分别展现不同产品线，形成统一的视觉识别系统，适用于门店陈列与线上推广。",
+    "cover": "assets/sanfu-01.jpg",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/sanfu-01.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/sanfu-02.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/sanfu-03.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 140,
+    "version": 1
+  },
+  {
+    "id": "c7391cef-271b-57d8-a7c1-3d88bd0f2e8c",
+    "title": "广告视觉练习",
+    "category": "ad_visual",
+    "description": "一组广告视觉练习，尝试不同画面风格和产品表现方式，探索从概念到成图的多种可能性。",
+    "cover": "assets/aigc-ad-01.jpg",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/aigc-ad-01.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/aigc-ad-02.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 150,
+    "version": 1
+  },
+  {
+    "id": "98a584eb-a174-52e8-a054-ab826b0a7d25",
+    "title": "泉州冰箱贴",
+    "category": "ad_visual",
+    "description": "以泉州城市文化为灵感设计的冰箱贴文创产品。将泉州标志性建筑、闽南传统元素与现代设计语言融合，采用插画风格呈现古城风貌。色彩温暖明快，线条细腻生动，兼具纪念意义与实用性，是泉州文化传播的创意载体。",
+    "cover": "assets/quanzhou-01.jpg",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/quanzhou-01.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 160,
+    "version": 1
+  },
+  {
+    "id": "c2563c67-476e-5c75-a319-e066bc488cb4",
+    "title": "插画作品",
+    "category": "ad_visual",
+    "description": "个人原创插画作品系列，涵盖不同主题与风格探索。从传统岭南文化到现代都市生活，运用丰富的色彩层次与细腻的笔触，传递独特的视觉叙事。每幅作品都是对生活观察与艺术表达的融合，展现多元化的创作视角。",
+    "cover": "assets/chahua-01.jpg",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/chahua-01.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/chahua-02.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/chahua-03.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/chahua-04.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 170,
+    "version": 1
+  },
+  {
+    "id": "faf4680e-dd67-51a6-a419-b1686d3cc908",
+    "title": "UI设计",
+    "category": "personal",
+    "description": "个人原创UI设计作品，涵盖移动端界面、图标设计与交互流程。以用户体验为核心，注重视觉层次与信息架构的清晰呈现。设计风格简约现代，色彩搭配考究，交互逻辑流畅，展现了从概念到高保真原型的完整设计能力。",
+    "cover": "assets/ui-01.jpg",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/ui-01.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/ui-02.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/ui-03.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/ui-04.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/ui-05.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/ui-06.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/ui-07.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/ui-08.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/ui-09.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/ui-10.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/ui-11.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 180,
+    "version": 1
+  },
+  {
+    "id": "bf7c6e6f-f6a4-59c2-a12c-eed44aee437f",
+    "title": "9月4日 (3)",
+    "category": "marketing_clips",
+    "description": "营销切片视频 · 00:17",
+    "cover": "assets/marketing-clips/clip-01.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/marketing-clips/clip-01.mp4",
+        "poster": "assets/marketing-clips/clip-01.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 190,
+    "version": 1
+  },
+  {
+    "id": "5649a6a3-750d-5ffa-b8f4-ad3a3e9aec91",
+    "title": "9月4日 (7)",
+    "category": "marketing_clips",
+    "description": "营销切片视频 · 00:16",
+    "cover": "assets/marketing-clips/clip-02.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/marketing-clips/clip-02.mp4",
+        "poster": "assets/marketing-clips/clip-02.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 200,
+    "version": 1
+  },
+  {
+    "id": "5b82d168-3e86-5de0-90b5-8e7959a2002c",
+    "title": "9月4日",
+    "category": "marketing_clips",
+    "description": "营销切片视频 · 00:17",
+    "cover": "assets/marketing-clips/clip-03.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/marketing-clips/clip-03.mp4",
+        "poster": "assets/marketing-clips/clip-03.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 210,
+    "version": 1
+  },
+  {
+    "id": "9907916d-bd26-5241-8a54-a2b1070d5414",
+    "title": "8月27日 (1)",
+    "category": "marketing_clips",
+    "description": "营销切片视频 · 00:37",
+    "cover": "assets/marketing-clips/clip-04.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/marketing-clips/clip-04.mp4",
+        "poster": "assets/marketing-clips/clip-04.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 220,
+    "version": 1
+  },
+  {
+    "id": "f2a9dc97-66a2-541b-bd89-bb2a43acdc10",
+    "title": "8月28日",
+    "category": "marketing_clips",
+    "description": "营销切片视频 · 00:45",
+    "cover": "assets/marketing-clips/clip-05.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/marketing-clips/clip-05.mp4",
+        "poster": "assets/marketing-clips/clip-05.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 230,
+    "version": 1
+  },
+  {
+    "id": "10b03f0b-0e81-5987-896f-b6d035f37c66",
+    "title": "8月29日 (1)",
+    "category": "marketing_clips",
+    "description": "营销切片视频 · 00:16",
+    "cover": "assets/marketing-clips/clip-06.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/marketing-clips/clip-06.mp4",
+        "poster": "assets/marketing-clips/clip-06.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 240,
+    "version": 1
+  },
+  {
+    "id": "9b3242a6-8f17-58d7-8957-bc8ad91658e6",
+    "title": "动态影像",
+    "category": "aigc_video",
+    "description": "",
+    "cover": "assets/motion-clips/clip-01.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/motion-clips/clip-01.mp4",
+        "poster": "assets/motion-clips/clip-01.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 250,
+    "version": 1
+  },
+  {
+    "id": "483b1aff-6cc6-5c44-bb35-3ca638071574",
+    "title": "动态影像",
+    "category": "aigc_video",
+    "description": "",
+    "cover": "assets/motion-clips/clip-02.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/motion-clips/clip-02.mp4",
+        "poster": "assets/motion-clips/clip-02.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 260,
+    "version": 1
+  },
+  {
+    "id": "bf188315-b6cb-5875-820b-7dd07c406f6f",
+    "title": "动态影像",
+    "category": "aigc_video",
+    "description": "",
+    "cover": "assets/motion-clips/clip-03.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/motion-clips/clip-03.mp4",
+        "poster": "assets/motion-clips/clip-03.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 270,
+    "version": 1
+  },
+  {
+    "id": "4e872dd1-8ab8-53b8-9391-3e48ea893381",
+    "title": "动态影像",
+    "category": "aigc_video",
+    "description": "",
+    "cover": "assets/motion-clips/clip-04.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/motion-clips/clip-04.mp4",
+        "poster": "assets/motion-clips/clip-04.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 280,
+    "version": 1
+  },
+  {
+    "id": "5fd3d991-eaec-5329-88cd-2f9e736c6d33",
+    "title": "动态影像",
+    "category": "aigc_video",
+    "description": "",
+    "cover": "assets/motion-clips/clip-05.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/motion-clips/clip-05.mp4",
+        "poster": "assets/motion-clips/clip-05.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 290,
+    "version": 1
+  },
+  {
+    "id": "6a475b60-312f-5905-a2a8-c3856f278d34",
+    "title": "动态影像",
+    "category": "aigc_video",
+    "description": "",
+    "cover": "assets/motion-clips/clip-06.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/motion-clips/clip-06.mp4",
+        "poster": "assets/motion-clips/clip-06.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 300,
+    "version": 1
+  },
+  {
+    "id": "cc835bab-5d0e-58b8-a33a-62ee46f343b9",
+    "title": "动态影像",
+    "category": "aigc_video",
+    "description": "",
+    "cover": "assets/motion-clips/clip-07.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/motion-clips/clip-07.mp4",
+        "poster": "assets/motion-clips/clip-07.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 310,
+    "version": 1
+  },
+  {
+    "id": "b2f4d075-4cd9-5f03-a162-14371b413a3f",
+    "title": "动态影像",
+    "category": "aigc_video",
+    "description": "",
+    "cover": "assets/motion-clips/clip-08.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/motion-clips/clip-08.mp4",
+        "poster": "assets/motion-clips/clip-08.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 320,
+    "version": 1
+  },
+  {
+    "id": "0c3d2680-8636-55a5-8995-12b7de3b689e",
+    "title": "动态影像",
+    "category": "aigc_video",
+    "description": "",
+    "cover": "assets/motion-clips/clip-09.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/motion-clips/clip-09.mp4",
+        "poster": "assets/motion-clips/clip-09.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 330,
+    "version": 1
+  },
+  {
+    "id": "c28e69b7-2a9f-5cc7-829e-3c27c9e60ca4",
+    "title": "动态影像",
+    "category": "aigc_video",
+    "description": "",
+    "cover": "assets/motion-clips/clip-10.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/motion-clips/clip-10.mp4",
+        "poster": "assets/motion-clips/clip-10.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 340,
+    "version": 1
+  },
+  {
+    "id": "c0eee9a0-1cb0-5c9f-bddf-1218326ecdbd",
+    "title": "动态影像",
+    "category": "aigc_video",
+    "description": "",
+    "cover": "assets/motion-clips/clip-11.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/motion-clips/clip-11.mp4",
+        "poster": "assets/motion-clips/clip-11.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 350,
+    "version": 1
+  },
+  {
+    "id": "c3c3e722-bb94-5609-a67c-c9fde74cb6ac",
+    "title": "动态影像",
+    "category": "aigc_video",
+    "description": "",
+    "cover": "assets/motion-clips/clip-12.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/motion-clips/clip-12.mp4",
+        "poster": "assets/motion-clips/clip-12.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 360,
+    "version": 1
+  },
+  {
+    "id": "bf66a5e2-cd95-52bb-a096-0ab1af327fe6",
+    "title": "动态影像",
+    "category": "aigc_video",
+    "description": "",
+    "cover": "assets/motion-clips/clip-13.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/motion-clips/clip-13.mp4",
+        "poster": "assets/motion-clips/clip-13.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 370,
+    "version": 1
+  },
+  {
+    "id": "6ba74c81-9247-562e-81f9-7a23e2fff3f7",
+    "title": "动态影像",
+    "category": "aigc_video",
+    "description": "",
+    "cover": "assets/motion-clips/clip-14.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/motion-clips/clip-14.mp4",
+        "poster": "assets/motion-clips/clip-14.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 380,
+    "version": 1
+  },
+  {
+    "id": "8f2b4b6e-19cb-5335-aec7-7c8bd9d38668",
+    "title": "动态影像",
+    "category": "aigc_video",
+    "description": "",
+    "cover": "assets/motion-clips/clip-15.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/motion-clips/clip-15.mp4",
+        "poster": "assets/motion-clips/clip-15.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 390,
+    "version": 1
+  },
+  {
+    "id": "d6231277-76d3-57d4-a0ab-427b798b1974",
+    "title": "动态影像",
+    "category": "aigc_video",
+    "description": "",
+    "cover": "assets/motion-clips/clip-16.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/motion-clips/clip-16.mp4",
+        "poster": "assets/motion-clips/clip-16.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 400,
+    "version": 1
+  },
+  {
+    "id": "053e6ea6-a8b7-5e85-82c7-62eb3f7bd05b",
+    "title": "动态影像",
+    "category": "aigc_video",
+    "description": "",
+    "cover": "assets/motion-clips/clip-17.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/motion-clips/clip-17.mp4",
+        "poster": "assets/motion-clips/clip-17.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 410,
+    "version": 1
+  },
+  {
+    "id": "085b2835-e6f4-5565-a92f-dc949830b32b",
+    "title": "动态影像",
+    "category": "aigc_video",
+    "description": "",
+    "cover": "assets/motion-clips/clip-18.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/motion-clips/clip-18.mp4",
+        "poster": "assets/motion-clips/clip-18.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 420,
+    "version": 1
+  },
+  {
+    "id": "b46a49a0-c7ca-534e-bed5-06a8f310cda6",
+    "title": "动态影像",
+    "category": "aigc_video",
+    "description": "",
+    "cover": "assets/motion-clips/clip-19.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/motion-clips/clip-19.mp4",
+        "poster": "assets/motion-clips/clip-19.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 430,
+    "version": 1
+  },
+  {
+    "id": "d5a2c479-5969-577d-b3b0-aa08039c91f1",
+    "title": "动态影像",
+    "category": "aigc_video",
+    "description": "",
+    "cover": "assets/motion-clips/clip-20.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/motion-clips/clip-20.mp4",
+        "poster": "assets/motion-clips/clip-20.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 440,
+    "version": 1
+  },
+  {
+    "id": "0738700f-3c34-5991-abbb-c82849d30091",
+    "title": "动态影像",
+    "category": "aigc_video",
+    "description": "",
+    "cover": "assets/motion-clips/clip-21.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/motion-clips/clip-21.mp4",
+        "poster": "assets/motion-clips/clip-21.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 450,
+    "version": 1
+  },
+  {
+    "id": "fe6ac044-085c-531f-8e22-6330b89c3253",
+    "title": "动态影像",
+    "category": "aigc_video",
+    "description": "",
+    "cover": "assets/motion-clips/clip-22.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/motion-clips/clip-22.mp4",
+        "poster": "assets/motion-clips/clip-22.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 460,
+    "version": 1
+  },
+  {
+    "id": "cfc6b230-7e6d-5acf-b6f4-6fb72412515a",
+    "title": "动态影像",
+    "category": "aigc_video",
+    "description": "",
+    "cover": "assets/motion-clips/clip-23.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/motion-clips/clip-23.mp4",
+        "poster": "assets/motion-clips/clip-23.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 470,
+    "version": 1
+  },
+  {
+    "id": "2a540472-738a-5e92-b4d1-61638f04bbda",
+    "title": "动态影像",
+    "category": "aigc_video",
+    "description": "",
+    "cover": "assets/motion-clips/clip-24.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/motion-clips/clip-24.mp4",
+        "poster": "assets/motion-clips/clip-24.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 480,
+    "version": 1
+  },
+  {
+    "id": "18fa4dc1-963d-51e2-8fa5-88d6815d64f5",
+    "title": "动态影像",
+    "category": "aigc_video",
+    "description": "",
+    "cover": "assets/motion-clips/clip-25.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/motion-clips/clip-25.mp4",
+        "poster": "assets/motion-clips/clip-25.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 490,
+    "version": 1
+  },
+  {
+    "id": "d9eb572a-95d1-586b-8ad7-10886e10153d",
+    "title": "动态影像",
+    "category": "aigc_video",
+    "description": "",
+    "cover": "assets/motion-clips/clip-26.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/motion-clips/clip-26.mp4",
+        "poster": "assets/motion-clips/clip-26.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 500,
+    "version": 1
+  },
+  {
+    "id": "1300d998-932a-5f5b-abc0-48534d10a188",
+    "title": "动态影像",
+    "category": "aigc_video",
+    "description": "",
+    "cover": "assets/motion-clips/clip-27.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/motion-clips/clip-27.mp4",
+        "poster": "assets/motion-clips/clip-27.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 510,
+    "version": 1
+  },
+  {
+    "id": "3e38c4c6-822b-56db-952a-62d155af1b30",
+    "title": "动态影像",
+    "category": "aigc_video",
+    "description": "",
+    "cover": "assets/motion-clips/clip-28.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/motion-clips/clip-28.mp4",
+        "poster": "assets/motion-clips/clip-28.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 520,
+    "version": 1
+  },
+  {
+    "id": "dbd216ff-d18f-5dfa-aa03-bb75fff744a8",
+    "title": "动态影像",
+    "category": "aigc_video",
+    "description": "",
+    "cover": "assets/motion-clips/clip-29.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/motion-clips/clip-29.mp4",
+        "poster": "assets/motion-clips/clip-29.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 530,
+    "version": 1
+  },
+  {
+    "id": "90361a00-db77-5f64-b1bd-554ba7817e86",
+    "title": "动态影像",
+    "category": "aigc_video",
+    "description": "",
+    "cover": "assets/motion-clips/clip-30.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/motion-clips/clip-30.mp4",
+        "poster": "assets/motion-clips/clip-30.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 540,
+    "version": 1
+  },
+  {
+    "id": "8d4d1366-613a-5649-96fb-550f508bce72",
+    "title": "黑白兔IP设计",
+    "category": "brand_ip",
+    "description": "",
+    "cover": "assets/black-white-rabbit/image-03.png",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/black-white-rabbit/image-03.png"
+      },
+      {
+        "type": "image",
+        "src": "assets/black-white-rabbit/image-02.png"
+      },
+      {
+        "type": "image",
+        "src": "assets/black-white-rabbit/image-04.png"
+      },
+      {
+        "type": "image",
+        "src": "assets/black-white-rabbit/image-05.png"
+      },
+      {
+        "type": "image",
+        "src": "assets/black-white-rabbit/image-06.png"
+      },
+      {
+        "type": "image",
+        "src": "assets/black-white-rabbit/image-07.png"
+      },
+      {
+        "type": "image",
+        "src": "assets/black-white-rabbit/image-08.png"
+      },
+      {
+        "type": "image",
+        "src": "assets/black-white-rabbit/image-09.png"
+      },
+      {
+        "type": "image",
+        "src": "assets/black-white-rabbit/image-10.png"
+      },
+      {
+        "type": "image",
+        "src": "assets/black-white-rabbit/image-01.png"
+      }
+    ],
+    "status": "published",
+    "sort_order": 550,
+    "version": 1
+  },
+  {
+    "id": "88b7941f-9df0-55b5-88be-229a675d05c4",
+    "title": "动态影像",
+    "category": "aigc_video",
+    "description": "",
+    "cover": "assets/motion-finished/clip-01.jpg",
+    "media": [
+      {
+        "type": "video",
+        "src": "assets/motion-finished/clip-01.mp4",
+        "poster": "assets/motion-finished/clip-01.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 560,
+    "version": 1
+  },
+  {
+    "id": "31de0569-c585-59c1-9c4a-0d9c9b61c935",
+    "title": "金线荷叶与雾岚山水",
+    "category": "ad_visual",
+    "description": "",
+    "cover": "assets/visual-artworks/image-01.png",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/visual-artworks/image-01.png"
+      }
+    ],
+    "status": "published",
+    "sort_order": 570,
+    "version": 1
+  },
+  {
+    "id": "f0880aed-148f-55d0-8489-1ee68e2f5610",
+    "title": "浮世绘花影中的艺伎与折扇",
+    "category": "ad_visual",
+    "description": "",
+    "cover": "assets/visual-artworks/image-02.png",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/visual-artworks/image-02.png"
+      }
+    ],
+    "status": "published",
+    "sort_order": 580,
+    "version": 1
+  },
+  {
+    "id": "8fb3d3b7-dfdc-597c-b96b-e23ec09eefa2",
+    "title": "涂鸦滑板街头节拍海报",
+    "category": "ad_visual",
+    "description": "",
+    "cover": "assets/visual-artworks/image-03.png",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/visual-artworks/image-03.png"
+      }
+    ],
+    "status": "published",
+    "sort_order": 590,
+    "version": 1
+  },
+  {
+    "id": "21a07838-05d4-5cf5-823a-770a2ae5c48f",
+    "title": "霓虹环带：下一境界",
+    "category": "ad_visual",
+    "description": "",
+    "cover": "assets/visual-artworks/image-04.png",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/visual-artworks/image-04.png"
+      }
+    ],
+    "status": "published",
+    "sort_order": 600,
+    "version": 1
+  },
+  {
+    "id": "4d738b0e-ddac-5585-9ee5-b60538f80773",
+    "title": "岭南插画海报",
+    "category": "ad_visual",
+    "description": "",
+    "cover": "assets/lingnan-poster/image-01.png",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/lingnan-poster/image-01.png"
+      }
+    ],
+    "status": "published",
+    "sort_order": 610,
+    "version": 1
+  },
+  {
+    "id": "d343768d-503d-57fb-b9f1-27765ed03dff",
+    "title": "博物馆APP设计",
+    "category": "personal",
+    "description": "",
+    "cover": "assets/museum-app/detail-03.png",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/museum-app/detail-01.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/museum-app/detail-02.png"
+      },
+      {
+        "type": "image",
+        "src": "assets/museum-app/detail-03.png"
+      },
+      {
+        "type": "image",
+        "src": "assets/museum-app/detail-04.png"
+      }
+    ],
+    "status": "published",
+    "sort_order": 620,
+    "version": 1
+  },
+  {
+    "id": "c7be2d56-8151-518d-976e-cd52e23f8c5e",
+    "title": "咖啡店APP设计",
+    "category": "personal",
+    "description": "",
+    "cover": "assets/coffee-app/detail-05.jpg",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/coffee-app/detail-02.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/coffee-app/detail-05.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/coffee-app/detail-04.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/coffee-app/detail-01.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/coffee-app/detail-06.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/coffee-app/detail-03.jpg"
+      },
+      {
+        "type": "image",
+        "src": "assets/coffee-app/detail-07.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 630,
+    "version": 1
+  },
+  {
+    "id": "daac61c5-3b11-5335-9f4e-aef7bbf8c1a0",
+    "title": "意大利面品牌IP设计",
+    "category": "brand_ip",
+    "description": "",
+    "cover": "assets/pasta-brand/image-01.png",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/pasta-brand/image-01.png"
+      },
+      {
+        "type": "image",
+        "src": "assets/pasta-brand/image-02.png"
+      }
+    ],
+    "status": "published",
+    "sort_order": 640,
+    "version": 1
+  },
+  {
+    "id": "b4abe196-8146-4681-8128-4a8a11c2205d",
+    "title": "视觉创作",
+    "category": "ad_visual",
+    "description": "",
+    "cover": "assets/visual-untitled/image-01.jpg",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/visual-untitled/image-01.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 650,
+    "version": 1
+  },
+  {
+    "id": "edf474b8-fe23-4d7e-bc58-82a8bb1c6e5f",
+    "title": "视觉创作",
+    "category": "ad_visual",
+    "description": "",
+    "cover": "assets/visual-untitled/image-02.jpg",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/visual-untitled/image-02.jpg"
+      }
+    ],
+    "status": "published",
+    "sort_order": 660,
+    "version": 1
+  }
+]

@@ -1,0 +1,63 @@
+{
+  "workId": "d343768d-503d-57fb-b9f1-27765ed03dff",
+  "title": "博物馆APP设计",
+  "category": "personal",
+  "catLabel": "UI设计",
+  "cover": "assets/museum-app/detail-03.png",
+  "gallery": [
+    "assets/museum-app/detail-01.jpg",
+    "assets/museum-app/detail-02.png",
+    "assets/museum-app/detail-03.png",
+    "assets/museum-app/detail-04.png"
+  ],
+  "files": [
+    {
+      "order": 1,
+      "source": "C:/Users/kieeeeei/Desktop/ui/金砖_画板 1.jpg",
+      "sourceName": "金砖_画板 1.jpg",
+      "bytes": 706557,
+      "sha256": "a9926c52d9edb719089698e56a6572ef92ffcf4f1ca8fba76d8652a8647e497e",
+      "width": 960,
+      "height": 6451,
+      "src": "assets/museum-app/detail-01.jpg",
+      "decodeExit": 0,
+      "sourceUnchanged": true
+    },
+    {
+      "order": 2,
+      "source": "C:/Users/kieeeeei/Desktop/ui/294shots_so.png",
+      "sourceName": "294shots_so.png",
+      "bytes": 2835664,
+      "sha256": "31fd72f23cfd61bc3f5ea549e46b4e1fd2a1cc740b7d77977d54849bbb823ff4",
+      "width": 2880,
+      "height": 2160,
+      "src": "assets/museum-app/detail-02.png",
+      "decodeExit": 0,
+      "sourceUnchanged": true
+    },
+    {
+      "order": 3,
+      "source": "C:/Users/kieeeeei/Desktop/ui/710shots_so.png",
+      "sourceName": "710shots_so.png",
+      "bytes": 2821294,
+      "sha256": "1eb8b162ac35629f7552c614aca7d1a5a11bbe11c9e67492091ddf2134b71217",
+      "width": 2880,
+      "height": 2160,
+      "src": "assets/museum-app/detail-03.png",
+      "decodeExit": 0,
+      "sourceUnchanged": true
+    },
+    {
+      "order": 4,
+      "source": "C:/Users/kieeeeei/Desktop/ui/791shots_so.png",
+      "sourceName": "791shots_so.png",
+      "bytes": 3013220,
+      "sha256": "9caebad11827a5b19685ae5bb959c3af04aca4460cf811ed5e69a80476b72766",
+      "width": 2880,
+      "height": 2160,
+      "src": "assets/museum-app/detail-04.png",
+      "decodeExit": 0,
+      "sourceUnchanged": true
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "category": "ad_visual",
+  "label": "视觉创作",
+  "workCount": 4,
+  "files": [
+    {
+      "order": 1,
+      "title": "金线荷叶与雾岚山水",
+      "source": "C:/Users/kieeeeei/Desktop/金线荷叶与雾岚山水.png",
+      "sourceName": "金线荷叶与雾岚山水.png",
+      "sha256": "9c03342be9e24fb1b860f043c73bbc738ea9b16c2e6fce376bdcad132a6ffe40",
+      "bytes": 2777811,
+      "width": 1024,
+      "height": 1536,
+      "src": "assets/visual-artworks/image-01.png",
+      "decodeExit": 0,
+      "sourceUnchanged": true
+    },
+    {
+      "order": 2,
+      "title": "浮世绘花影中的艺伎与折扇",
+      "source": "C:/Users/kieeeeei/Desktop/浮世绘花影中的艺伎与折扇.png",
+      "sourceName": "浮世绘花影中的艺伎与折扇.png",
+      "sha256": "ee411b59f37889f86ea3cc5f978e6a1486bbf73c3d2a607cb539ef1628de586b",
+      "bytes": 3017416,
+      "width": 1024,
+      "height": 1536,
+      "src": "assets/visual-artworks/image-02.png",
+      "decodeExit": 0,
+      "sourceUnchanged": true
+    },
+    {
+      "order": 3,
+      "title": "涂鸦滑板街头节拍海报",
+      "source": "C:/Users/kieeeeei/Desktop/涂鸦滑板街头节拍海报.png",
+      "sourceName": "涂鸦滑板街头节拍海报.png",
+      "sha256": "763ead00633337dbd2f45b450a1cee3948e00ce35e9717151a9106eb9fa5f4b9",
+      "bytes": 3545010,
+      "width": 941,
+      "height": 1672,
+      "src": "assets/visual-artworks/image-03.png",
+      "decodeExit": 0,
+      "sourceUnchanged": true
+    },
+    {
+      "order": 4,
+      "title": "霓虹环带：下一境界",
+      "source": "C:/Users/kieeeeei/Desktop/霓虹环带：下一境界.png",
+      "sourceName": "霓虹环带：下一境界.png",
+      "sha256": "d35a1875038e4779d83d85b697db21d62d19ca6740fbb6f9be7cd906b4d262c1",
+      "bytes": 1764741,
+      "width": 1086,
+      "height": 1448,
+      "src": "assets/visual-artworks/image-04.png",
+      "decodeExit": 0,
+      "sourceUnchanged": true
+    }
+  ],
+  "works": [
+    {
+      "id": "31de0569-c585-59c1-9c4a-0d9c9b61c935",
+      "title": "金线荷叶与雾岚山水",
+      "category": "ad_visual",
+      "catLabel": "视觉创作",
+      "description": "",
+      "img": "assets/visual-artworks/image-01.png",
+      "gallery": [
+        "assets/visual-artworks/image-01.png"
+      ]
+    },
+    {
+      "id": "f0880aed-148f-55d0-8489-1ee68e2f5610",
+      "title": "浮世绘花影中的艺伎与折扇",
+      "category": "ad_visual",
+      "catLabel": "视觉创作",
+      "description": "",
+      "img": "assets/visual-artworks/image-02.png",
+      "gallery": [
+        "assets/visual-artworks/image-02.png"
+      ]
+    },
+    {
+      "id": "8fb3d3b7-dfdc-597c-b96b-e23ec09eefa2",
+      "title": "涂鸦滑板街头节拍海报",
+      "category": "ad_visual",
+      "catLabel": "视觉创作",
+      "description": "",
+      "img": "assets/visual-artworks/image-03.png",
+      "gallery": [
+        "assets/visual-artworks/image-03.png"
+      ]
+    },
+    {
+      "id": "21a07838-05d4-5cf5-823a-770a2ae5c48f",
+      "title": "霓虹环带：下一境界",
+      "category": "ad_visual",
+      "catLabel": "视觉创作",
+      "description": "",
+      "img": "assets/visual-artworks/image-04.png",
+      "gallery": [
+        "assets/visual-artworks/image-04.png"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "addedCount": 11,
+  "flowers": [
+    {
+      "id": "lily-pink",
+      "name": "粉色百合",
+      "src": "assets/flowers/flower-02.png",
+      "source": "C:/Users/kieeeeei/Desktop/jia/图层 2.png",
+      "sha256": "3fe82d28cf2817ffe93e5f64a35365714dba52a1bfe8c21bc00ab59b59523c43",
+      "width": 310,
+      "height": 292
+    },
+    {
+      "id": "white-blossom",
+      "name": "绢白花朵",
+      "src": "assets/flowers/flower-03.png",
+      "source": "C:/Users/kieeeeei/Desktop/jia/图层 3.png",
+      "sha256": "b765f66ed9ab6f70b99693454721b9c9084559a6e261a047bd566599f804d1eb",
+      "width": 293,
+      "height": 300
+    },
+    {
+      "id": "lily-pair",
+      "name": "粉色双花",
+      "src": "assets/flowers/flower-04.png",
+      "source": "C:/Users/kieeeeei/Desktop/jia/图层 4.png",
+      "sha256": "05d03744a2ed3eb986fc27e7588de89399b3de1e79660d7a01e06f59a9bf6b8d",
+      "width": 316,
+      "height": 239
+    },
+    {
+      "id": "petal-pink",
+      "name": "浅粉花瓣",
+      "src": "assets/flowers/flower-05.png",
+      "source": "C:/Users/kieeeeei/Desktop/jia/图层 5.png",
+      "sha256": "8dc4e006b7f6cd31dfe8caa82728fe77a4ccf31f13ce7de1308965d7c2f7e172",
+      "width": 275,
+      "height": 286
+    },
+    {
+      "id": "lily-blush",
+      "name": "柔粉百合",
+      "src": "assets/flowers/flower-06.png",
+      "source": "C:/Users/kieeeeei/Desktop/jia/图层 6.png",
+      "sha256": "b3d7af44edad2f41e57b5f63ca650e3500acd9db5a6748612d2d23ed11498422",
+      "width": 300,
+      "height": 311
+    },
+    {
+      "id": "lily-white",
+      "name": "素白百合",
+      "src": "assets/flowers/flower-07.png",
+      "source": "C:/Users/kieeeeei/Desktop/jia/图层 7.png",
+      "sha256": "3c46c71be0ac6076aace31494e9f73db8619a96a2d6777e665c0d72ef620ef08",
+      "width": 309,
+      "height": 299
+    },
+    {
+      "id": "gardenia",
+      "name": "奶白栀子",
+      "src": "assets/flowers/flower-08.png",
+      "source": "C:/Users/kieeeeei/Desktop/jia/图层 8.png",
+      "sha256": "00f74a3720a39a4aaa87c106e43ebdbfeb31153fc8b8f1420fb7963db42431c5",
+      "width": 310,
+      "height": 312
+    },
+    {
+      "id": "alstroemeria",
+      "name": "粉色六出花",
+      "src": "assets/flowers/flower-09.png",
+      "source": "C:/Users/kieeeeei/Desktop/jia/图层 9.png",
+      "sha256": "a7ce9c86084ce0468f37a9229d6c1b3f49b681c03712e3cbb33713982b5a9e2c",
+      "width": 266,
+      "height": 283
+    },
+    {
+      "id": "lily-double",
+      "name": "重瓣百合",
+      "src": "assets/flowers/flower-10.png",
+      "source": "C:/Users/kieeeeei/Desktop/jia/图层 10.png",
+      "sha256": "bcf6ec71b662639fe421e9d6264b70a2598423bd8234c14b2922eeff79407bc9",
+      "width": 312,
+      "height": 306
+    },
+    {
+      "id": "lotus-fabric",
+      "name": "织纹莲花",
+      "src": "assets/flowers/lotus-fabric.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 5.png",
+      "sha256": "43f4923aee0c31034097ada8be8a713b99f85351543cf22373eaa8a09fb9ca39",
+      "width": 230,
+      "height": 186
+    },
+    {
+      "id": "lotus-pink",
+      "name": "粉色莲花",
+      "src": "assets/flowers/lotus-pink.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 12.png",
+      "sha256": "434c1707d20413b6bbbf6f387f20ebb24d74d96c2bc816614459bb7e4f9a6705",
+      "width": 183,
+      "height": 149
+    }
+  ]
+}

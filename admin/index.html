@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="color-scheme" content="light">
+  <title>作品管理 · 阮靖怡</title>
+  <link rel="stylesheet" href="/admin/admin.css?v=cms-20261022">
+  <script defer src="/admin/admin.js?v=cms-20261022"></script>
+</head>
+<body>
+  <div class="page-shell">
+    <header class="masthead">
+      <a class="wordmark" href="/#works" aria-label="返回作品集">Keely<span class="wordmark-dot">.</span></a>
+      <div class="masthead-right"><a class="back-link" href="/#works">查看作品集 <span aria-hidden="true">↗</span></a><button id="logout" class="button button-quiet" type="button" hidden>退出登录</button></div>
+    </header>
+
+    <section class="page-intro" aria-labelledby="page-title">
+      <div><p class="eyebrow">PORTFOLIO STUDIO <span aria-hidden="true">/</span> 作品管理后台</p><h1 id="page-title">作品管理<span class="intro-spark" aria-hidden="true">✳</span></h1><p class="tagline">让新作品，自然进入作品集。</p></div>
+      <div class="intro-note"><span class="small-label">YOUR OWN CREATIVE SPACE</span><p>整理想法，保存过程。<br>准备好了，再让作品被看见。</p><span id="session-label" class="session-label">正在检查连接…</span></div>
+    </section>
+
+    <div id="global-message" class="notice" role="status" aria-live="polite" aria-atomic="true" hidden></div>
+
+    <section id="setup-section" class="setup-panel" aria-labelledby="setup-title" hidden>
+      <div class="setup-heading"><span class="setup-number" aria-hidden="true">01</span><div><p class="eyebrow">ONE-TIME SETUP</p><h2 id="setup-title">先连接你的作品库</h2><p id="setup-description">完成一次设置后，就能在这里上传和发布作品。</p></div></div>
+      <ol class="setup-steps"><li><span>1</span><div><strong>创建 Supabase 项目</strong><p>用它保存作品资料和图片、视频。</p></div></li><li><span>2</span><div><strong>初始化作品库与登录账号</strong><p>按交付包中的设置说明执行数据库文件，并建立你的管理员账号。</p></div></li><li><span>3</span><div><strong>填写 Vercel 环境变量</strong><p>完成部署并重新打开此页，原有 18 项作品也能在这里继续编辑。</p></div></li></ol>
+      <div class="setup-footer"><p>详细步骤见交付包中的后台设置说明。密钥只填写在部署平台。</p><button id="retry-connection" class="button button-outline" type="button">重新检查连接</button></div>
+    </section>
+
+    <section id="auth-section" class="auth-panel" aria-labelledby="auth-title" hidden>
+      <div class="auth-copy"><p class="eyebrow">WELCOME BACK</p><h2 id="auth-title">登录你的创作空间</h2><p id="auth-note">仅管理员可添加和修改作品。访客只能看到已发布的内容。</p><div class="auth-ornament" aria-hidden="true"><span></span><span></span><span></span><span></span><i>k.</i></div></div>
+      <form id="login-form" class="login-form">
+        <label for="login-email">登录邮箱</label><input id="login-email" name="email" type="email" value="2690722460@qq.com" required autocomplete="username" maxlength="254">
+        <label for="login-password">密码</label><input id="login-password" name="password" type="password" required autocomplete="current-password" maxlength="4096" placeholder="输入后台账号密码">
+        <button id="login-submit" class="button button-primary" type="submit">登录后台 <span aria-hidden="true">↗</span></button><p class="field-note">请使用在 Supabase 中建立的管理员账号。</p>
+      </form>
+    </section>
+
+    <main id="dashboard" hidden>
+      <section class="collection-toolbar" aria-labelledby="collection-title"><div><p class="eyebrow">THE COLLECTION</p><h2 id="collection-title">我的作品</h2></div><div class="toolbar-actions"><button id="refresh-works" class="button button-outline" type="button">刷新列表</button><button id="new-work" class="button button-primary" type="button"><span aria-hidden="true">＋</span> 添加作品</button></div></section>
+      <div class="studio-layout">
+        <section class="collection-panel" aria-label="作品列表">
+          <div id="status-filters" class="status-filters" aria-label="按发布状态筛选"><button type="button" class="status-filter is-active" data-status="all" aria-pressed="true">全部 <span id="count-all">0</span></button><button type="button" class="status-filter" data-status="published" aria-pressed="false">已发布 <span id="count-published">0</span></button><button type="button" class="status-filter" data-status="draft" aria-pressed="false">草稿 <span id="count-draft">0</span></button><button type="button" class="status-filter" data-status="archived" aria-pressed="false">回收站 <span id="count-archived">0</span></button></div>
+          <div class="list-controls"><label class="search-label" for="work-search"><span class="visually-hidden">搜索作品</span><span aria-hidden="true">⌕</span><input id="work-search" type="search" placeholder="搜索作品名称…" autocomplete="off"></label><label class="visually-hidden" for="category-filter">筛选作品分类</label><select id="category-filter"><option value="all">所有分类</option><option value="brand_ip">品牌IP</option><option value="aigc_video">动态影像</option><option value="ad_visual">视觉创作</option><option value="stage_design">舞台设计</option><option value="personal">UI设计</option><option value="marketing_clips">营销切片</option></select></div>
+          <div class="list-heading"><span id="list-count">0 件作品</span><span>按排序值排列</span></div>
+          <div id="works-list" class="works-list" aria-live="polite"></div>
+          <p id="empty-list" class="empty-state" hidden>这里还没有作品。<br><span>点击“添加作品”，开始新的记录。</span></p>
+        </section>
+
+        <section class="editor-panel" aria-labelledby="editor-title">
+          <div id="editor-empty" class="editor-empty"><span aria-hidden="true">✳</span><h2>给新作品留个位置</h2><p>从左侧选择作品继续编辑，<br>或点击“添加作品”开始。</p><button id="new-work-empty" class="button button-outline" type="button">添加第一件新作品 <span aria-hidden="true">↗</span></button></div>
+          <form id="work-form" hidden>
+            <header class="editor-heading"><div><p class="eyebrow">WORK EDITOR</p><h2 id="editor-title">新作品</h2></div><button id="close-editor" class="icon-button" type="button" aria-label="关闭作品编辑器">×</button></header>
+            <div class="editor-meta"><span id="editor-status" class="state-pill">尚未保存</span><span id="save-state" class="save-state" role="status" aria-live="polite">填写内容后保存草稿</span></div>
+            <fieldset id="editor-fields">
+              <div class="field"><label for="work-title">作品名称 <span class="required" aria-hidden="true">*</span></label><input id="work-title" name="title" required maxlength="160" placeholder="给作品一个清楚、好记的名字"><span class="field-note">这个名称会显示在作品列表和详情页中。</span></div>
+              <div class="field-grid"><div class="field"><label for="work-category">所属分类</label><select id="work-category" name="category"><option value="brand_ip">品牌IP</option><option value="aigc_video">动态影像</option><option value="ad_visual">视觉创作</option><option value="stage_design">舞台设计</option><option value="personal">UI设计</option><option value="marketing_clips">营销切片</option></select></div><div class="field"><label for="work-sort">排序值</label><input id="work-sort" name="sort_order" type="number" min="-100000" max="100000" step="1" value="10" required><span class="field-note">数字越小，展示越靠前。</span></div></div>
+              <div class="field"><label for="work-description">作品介绍</label><textarea id="work-description" name="description" rows="5" maxlength="12000" placeholder="写下创作背景、想法与设计亮点…"></textarea><div class="field-note field-note-right"><span id="description-count">0</span> / 12000</div></div>
+
+              <section class="media-section" aria-labelledby="cover-heading"><div class="section-label"><div><h3 id="cover-heading">作品封面</h3><p>用一张图片，介绍这件作品。</p></div><label for="cover-upload" class="button button-outline upload-label">上传封面<input id="cover-upload" class="file-control" type="file" accept="image/jpeg,image/png,image/webp,image/gif"></label></div><div class="cover-layout"><div id="cover-preview" class="cover-preview"><span>封面预览</span></div><div class="field cover-url"><label for="work-cover">封面地址</label><input id="work-cover" name="cover" type="text" inputmode="url" placeholder="上传后自动填写，也可粘贴 HTTPS 图片地址"><span class="field-note">发布前请设置封面。支持 JPG、PNG、WebP、GIF，单张不超过 15 MB。</span></div></div></section>
+
+              <section class="media-section" aria-labelledby="detail-heading"><div class="section-label"><div><h3 id="detail-heading">详情图片与视频</h3><p>按下方顺序呈现在作品详情中。</p></div><label for="media-upload" class="button button-outline upload-label">添加文件<input id="media-upload" class="file-control" type="file" accept="image/jpeg,image/png,image/webp,image/gif,video/mp4,video/webm" multiple></label></div><p class="field-note media-note">最多 50 个文件；图片不超过 15 MB，MP4 / WebM 视频不超过 50 MB。上传完成后仍需保存作品。</p><div id="upload-progress" class="upload-progress" role="status" aria-live="polite" hidden><progress aria-label="正在上传文件"></progress><span id="upload-progress-text">正在上传…</span></div><ol id="media-list" class="media-list"></ol><p id="empty-media" class="empty-media">还没有详情文件。只设置封面，也可以发布作品。</p><details class="manual-media"><summary>使用已有图片或视频地址</summary><div class="manual-media-fields"><label for="media-type">类型</label><select id="media-type"><option value="image">图片</option><option value="video">视频</option></select><label for="media-url">文件地址</label><input id="media-url" type="text" inputmode="url" placeholder="HTTPS 地址或已有 assets/ 路径"><label for="media-poster-url">视频封面地址（选填）</label><input id="media-poster-url" type="text" inputmode="url" placeholder="HTTPS 图片地址或已有 assets/ 路径"><button id="add-media" class="button button-outline" type="button">加入详情列表</button></div></details></section>
+            </fieldset>
+            <div id="conflict-actions" class="conflict-actions" hidden><p>你的输入已保留。载入最新版本会替换当前未保存的内容。</p><button id="reload-selected" class="button button-outline" type="button">载入最新版本</button></div>
+            <footer class="editor-footer"><div class="save-actions"><button id="save-draft" class="button button-outline" type="button">保存草稿</button><button id="publish-work" class="button button-primary" type="button">发布作品 <span aria-hidden="true">↗</span></button><button id="restore-work" class="button button-primary" type="button" hidden>恢复为草稿</button></div><button id="archive-work" class="button button-danger" type="button" hidden>移入回收站</button><p class="field-note">草稿仅在后台显示；发布后进入作品集。回收站中的作品可随时恢复。</p></footer>
+          </form>
+        </section>
+      </div>
+    </main>
+    <footer class="page-footer"><span>KEELY · PORTFOLIO STUDIO</span><span>用心创作，慢慢积累。</span></footer>
+  </div>
+</body>
+</html>

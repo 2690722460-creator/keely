@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+node_modules
+public
+baseline
+tests
+preview-*.png
+DIFF_FILE.diff
+VERIFICATION.txt
+ROLLBACK.sh
+rollback.mjs
+
+supabase
+docs
+CMS-SETUP.md

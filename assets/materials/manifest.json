@@ -1,0 +1,437 @@
+{
+  "version": 1,
+  "addedCount": 43,
+  "materials": [
+    {
+      "id": "material-02",
+      "name": "文字小兔",
+      "category": "paper",
+      "src": "assets/materials/material-02.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 2.png",
+      "sha256": "09d394e1ba1e7e16f6989470ed6aa253af4b669997cdbf8dfdb6c48bbcd4cd58",
+      "width": 145,
+      "height": 107
+    },
+    {
+      "id": "material-03",
+      "name": "莲花太极",
+      "category": "decor",
+      "src": "assets/materials/material-03.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 3.png",
+      "sha256": "7fcab654c2f3f281eb1317890d0b80c6fffaddb3e311903506b845e2e14e5849",
+      "width": 210,
+      "height": 209
+    },
+    {
+      "id": "material-04",
+      "name": "樱花纸伞",
+      "category": "decor",
+      "src": "assets/materials/material-04.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 4.png",
+      "sha256": "2bdf1158cd79ef2619a6f4f87ca75e4798f754c12a88ac5f6f7ac182e4db485b",
+      "width": 218,
+      "height": 218
+    },
+    {
+      "id": "material-05",
+      "name": "织纹莲花",
+      "category": "flowers",
+      "src": "assets/materials/material-05.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 5.png",
+      "aliasOf": "lotus-fabric",
+      "sha256": "43f4923aee0c31034097ada8be8a713b99f85351543cf22373eaa8a09fb9ca39",
+      "width": 230,
+      "height": 186
+    },
+    {
+      "id": "material-06",
+      "name": "粉色条纹纽扣",
+      "category": "buttons",
+      "src": "assets/materials/material-06.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 6.png",
+      "sha256": "f15951b36ea248cb8a3801c75cb445cb536d17b72c1594158c881da3d6e8b4e4",
+      "width": 320,
+      "height": 320
+    },
+    {
+      "id": "material-07",
+      "name": "粉色圆纽扣",
+      "category": "buttons",
+      "src": "assets/materials/material-07.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 7.png",
+      "sha256": "9f1cc9f475fdb17affd78a32c03c3ed2a3c0f23bd388e0655df8a2445d5d4eef",
+      "width": 316,
+      "height": 318
+    },
+    {
+      "id": "material-08",
+      "name": "黑色波点纽扣",
+      "category": "buttons",
+      "src": "assets/materials/material-08.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 8.png",
+      "sha256": "b4930f350da3ed395c141b0f8e599d75bb0151c90a9883c8e5957e6aff3e8dac",
+      "width": 320,
+      "height": 320
+    },
+    {
+      "id": "material-09",
+      "name": "蓝色条纹纽扣",
+      "category": "buttons",
+      "src": "assets/materials/material-09.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 9.png",
+      "sha256": "7f74efbfe3bdae7d43552d4f5c8d90d61abfd3ee0fe0eaca2363eaf847fdb9ea",
+      "width": 319,
+      "height": 319
+    },
+    {
+      "id": "material-10",
+      "name": "薄荷绿纽扣",
+      "category": "buttons",
+      "src": "assets/materials/material-10.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 10.png",
+      "sha256": "297dc3569337a227890a8e18792e3f4990762d77794a9261dd47cfffadd359cf",
+      "width": 317,
+      "height": 317
+    },
+    {
+      "id": "material-11",
+      "name": "粉棕波点纽扣",
+      "category": "buttons",
+      "src": "assets/materials/material-11.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 11.png",
+      "sha256": "0a294a5dff9d76215a393a382bae895888b1839b9eff75c460cd8cc32f7023e8",
+      "width": 320,
+      "height": 320
+    },
+    {
+      "id": "material-12",
+      "name": "柔粉四孔纽扣",
+      "category": "buttons",
+      "src": "assets/materials/material-12.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 12.png",
+      "sha256": "4bd6f72d202bad6064bcae1282ee3535c04048a64b98cf8d85d989b02d31096c",
+      "width": 335,
+      "height": 315
+    },
+    {
+      "id": "material-13",
+      "name": "奶黄波点纽扣",
+      "category": "buttons",
+      "src": "assets/materials/material-13.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 13.png",
+      "sha256": "6eb876115c165bb04731bb96bbdb1707e8af1201fee21d5201ba1707800b6b70",
+      "width": 340,
+      "height": 319
+    },
+    {
+      "id": "material-14",
+      "name": "刺绣花朵纽扣",
+      "category": "buttons",
+      "src": "assets/materials/material-14.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 14.png",
+      "sha256": "27d886429ddf0110b78273edb40ba6a051acfb2041ce4747947b625451b05f87",
+      "width": 217,
+      "height": 218
+    },
+    {
+      "id": "material-15",
+      "name": "蝴蝶结火漆",
+      "category": "paper",
+      "src": "assets/materials/material-15.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 15.png",
+      "sha256": "56a0d355f99d2abf06458b893d125114c3f21910dd00b9187712d58897b6b4d1",
+      "width": 231,
+      "height": 214
+    },
+    {
+      "id": "material-16",
+      "name": "粉色蝴蝶",
+      "category": "decor",
+      "src": "assets/materials/material-16.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 16.png",
+      "sha256": "a62eedae41738c5659bacf0bc498b9c6060add44b45784d56c1fc39282f4e0f9",
+      "width": 127,
+      "height": 155
+    },
+    {
+      "id": "material-17",
+      "name": "花纹水母",
+      "category": "decor",
+      "src": "assets/materials/material-17.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 17.png",
+      "sha256": "7bd1c131ef6aac026a6b103a5a006f2e5e226a6100731ad0d7557bbcdec8b0db",
+      "width": 271,
+      "height": 507
+    },
+    {
+      "id": "material-18",
+      "name": "伸懒腰猫咪",
+      "category": "decor",
+      "src": "assets/materials/material-18.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 18.png",
+      "sha256": "2e03dc9da3d5ddfd0db4eb8797d5bd007b076f67353746846b7af1ccc9d30aeb",
+      "width": 396,
+      "height": 367
+    },
+    {
+      "id": "material-19",
+      "name": "粉色花卉纸片",
+      "category": "paper",
+      "src": "assets/materials/material-19.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 19.png",
+      "sha256": "e22c48380a65403023b1d0f5b1e571546dbd262ca58f8d5ff9a678f42a849b97",
+      "width": 608,
+      "height": 687
+    },
+    {
+      "id": "material-20",
+      "name": "粉水晶",
+      "category": "decor",
+      "src": "assets/materials/material-20.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 20.png",
+      "sha256": "6e328ebade1e706251670ee1a92a6c31387d23a7f7c9e2569072ba68812842a0",
+      "width": 224,
+      "height": 364
+    },
+    {
+      "id": "material-21",
+      "name": "粉色声波贴纸",
+      "category": "paper",
+      "src": "assets/materials/material-21.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 21.png",
+      "sha256": "8b3aa35dbb904e6cbc89bca9d23879eb2d9d2b3e22d9ff350c1cc95880742762",
+      "width": 289,
+      "height": 108
+    },
+    {
+      "id": "material-22",
+      "name": "蔷薇花园光盘",
+      "category": "paper",
+      "src": "assets/materials/material-22.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 22.png",
+      "sha256": "1e875280f3460f6f8e2a049e69db9c9c3d29b018a73655d52ffb3250f9a3175d",
+      "width": 332,
+      "height": 327
+    },
+    {
+      "id": "material-23",
+      "name": "蝴蝶纽扣花边",
+      "category": "decor",
+      "src": "assets/materials/material-23.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 23.png",
+      "sha256": "3171a7b6fdca8fef28f71afcc1d47b23152142308c980e39a5825046d5e7575b",
+      "width": 223,
+      "height": 919
+    },
+    {
+      "id": "material-24",
+      "name": "粉色郁金香花束",
+      "category": "flowers",
+      "src": "assets/materials/material-24.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 24.png",
+      "sha256": "16514f698f1ff2091915ca8893bc674a87084889c43857ee6e793549875a7d94",
+      "width": 277,
+      "height": 384
+    },
+    {
+      "id": "material-25",
+      "name": "银光宝石百合",
+      "category": "flowers",
+      "src": "assets/materials/material-25.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 25.png",
+      "sha256": "0b8d671856fddfcd359fcf466f2f693d2142c00a5742bb1212770d93dc79aa90",
+      "width": 594,
+      "height": 541
+    },
+    {
+      "id": "material-26",
+      "name": "粉白宝石兰花",
+      "category": "flowers",
+      "src": "assets/materials/material-26.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 26.png",
+      "sha256": "fcd97d56248ad401c4230d455efba27960ae34a1e8b5b2f4d4e0363810359c37",
+      "width": 428,
+      "height": 352
+    },
+    {
+      "id": "material-27",
+      "name": "银白涂鸦花朵",
+      "category": "flowers",
+      "src": "assets/materials/material-27.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 27.png",
+      "sha256": "018da43af3f421f141b0013329ef75111c32170eb557c9fb82e5aa7411fadaee",
+      "width": 469,
+      "height": 544
+    },
+    {
+      "id": "material-28",
+      "name": "粉色海螺",
+      "category": "shells",
+      "src": "assets/materials/material-28.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 28.png",
+      "sha256": "2e0b55a066e40ffe8e71ea960166e5d72fd056501f462a8c1a21f7ec4ad75d79",
+      "width": 217,
+      "height": 191
+    },
+    {
+      "id": "material-29",
+      "name": "蓝白海螺碗",
+      "category": "shells",
+      "src": "assets/materials/material-29.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 29.png",
+      "sha256": "df3dee35925cc2e01ba025579d7a60f88cfbf88e798dbd267ddcb2bbcaaf8ecb",
+      "width": 213,
+      "height": 156
+    },
+    {
+      "id": "material-30",
+      "name": "浅蓝扇贝",
+      "category": "shells",
+      "src": "assets/materials/material-30.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 30.png",
+      "sha256": "e99bdb090103eb82aaf2c39c05304f499793079744ac0a209d594574e8069381",
+      "width": 189,
+      "height": 190
+    },
+    {
+      "id": "material-31",
+      "name": "粉色珍珠贝",
+      "category": "shells",
+      "src": "assets/materials/material-31.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 31.png",
+      "sha256": "4b7e510cc28da1df22dce41895860a859b803567824d95e7534a49a727ddeafc",
+      "width": 216,
+      "height": 167
+    },
+    {
+      "id": "material-32",
+      "name": "蓝绿珍珠贝",
+      "category": "shells",
+      "src": "assets/materials/material-32.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 32.png",
+      "sha256": "c80f2a52c486dab3b232419c2d5a4ecd5139b0a87b6275aeff8a690c66a13be3",
+      "width": 209,
+      "height": 151
+    },
+    {
+      "id": "material-33",
+      "name": "浅蓝扶桑花",
+      "category": "flowers",
+      "src": "assets/materials/material-33.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 33.png",
+      "sha256": "7320a8c05daa060f1499eee1d6bf4e441cf7e6d2c82ad9bdde4d1becf8a67d5f",
+      "width": 195,
+      "height": 198
+    },
+    {
+      "id": "material-34",
+      "name": "柔粉山茶",
+      "category": "flowers",
+      "src": "assets/materials/material-34.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 34.png",
+      "sha256": "dd57f0ff50de238602e06c168d8dbae294d2018241f9e930b671e94fdac9ed88",
+      "width": 199,
+      "height": 196
+    },
+    {
+      "id": "material-35",
+      "name": "奶白扶桑花",
+      "category": "flowers",
+      "src": "assets/materials/material-35.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 35.png",
+      "sha256": "ab7aca140016f0ac9092b13a1705934b3a95bb1eb7ce9ea843b538d801214dab",
+      "width": 196,
+      "height": 186
+    },
+    {
+      "id": "material-36",
+      "name": "粉色斑点百合",
+      "category": "flowers",
+      "src": "assets/materials/material-36.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 36.png",
+      "sha256": "4ea8f2de04b3640a25517e171ecf316bcb0d9dbf9f52c1e0cb86522e406e1d02",
+      "width": 212,
+      "height": 204
+    },
+    {
+      "id": "material-37",
+      "name": "蓝绿兰花",
+      "category": "flowers",
+      "src": "assets/materials/material-37.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 37.png",
+      "sha256": "22e99b2fda1605fa064a03ade48a0902a77791c52949cc930e2e2418b543f160",
+      "width": 236,
+      "height": 239
+    },
+    {
+      "id": "material-38",
+      "name": "明黄扶桑花",
+      "category": "flowers",
+      "src": "assets/materials/material-38.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 38.png",
+      "sha256": "885d8c1b40d732d96672a939eb92cb029495ecde0e3a292a8816f80a074c93fb",
+      "width": 208,
+      "height": 227
+    },
+    {
+      "id": "material-39",
+      "name": "蓝白扶桑花",
+      "category": "flowers",
+      "src": "assets/materials/material-39.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 39.png",
+      "sha256": "86f4ed1e1608ef6bb4212ae04894fbc13c8e052079c5e68a2e9f951c39d16800",
+      "width": 196,
+      "height": 211
+    },
+    {
+      "id": "material-40",
+      "name": "紫色蝴蝶兰",
+      "category": "flowers",
+      "src": "assets/materials/material-40.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 40.png",
+      "sha256": "68f12328e54b2f8ddd5af5dba93966a4fe2667b2e62c7ddc599a4c360da43924",
+      "width": 226,
+      "height": 184
+    },
+    {
+      "id": "material-41",
+      "name": "浅粉百合",
+      "category": "flowers",
+      "src": "assets/materials/material-41.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 41.png",
+      "sha256": "e4889abd3c892a05f23b7913712b54a9b4b6dafb7aa939ff68f67328843db355",
+      "width": 210,
+      "height": 218
+    },
+    {
+      "id": "material-42",
+      "name": "粉色兰花",
+      "category": "flowers",
+      "src": "assets/materials/material-42.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 42.png",
+      "sha256": "044c32161941235e563304784f3210456ba04fd3170666d8aa7365cbe7ea8550",
+      "width": 234,
+      "height": 215
+    },
+    {
+      "id": "material-43",
+      "name": "绯红百合",
+      "category": "flowers",
+      "src": "assets/materials/material-43.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/图层 43.png",
+      "sha256": "aaaf4c47d8514c4b73752c3b4779e4092c0e67c2f0660ebd3ef018225222c274",
+      "width": 204,
+      "height": 225
+    },
+    {
+      "id": "discover-title",
+      "name": "Discover 作品集字样",
+      "category": "paper",
+      "src": "assets/materials/discover-title.png",
+      "source": "C:/Users/kieeeeei/Desktop/新建文件夹/Discover 视觉设计作品集.png",
+      "sha256": "19bae5545ce26212f6689645e5a896eb654bb2b03477cf2eab9feb194a6db981",
+      "width": 417,
+      "height": 121
+    }
+  ]
+}
